@@ -2,5 +2,5 @@
 
 Main_Window::Main_Window(QWidget *parent) : QMainWindow(parent)
 {
-
+    newComponent = new DCDC_Component();
 }
